@@ -176,10 +176,10 @@ export default function Page() {
                     <h2 className="mt-8 text-center text-1xl font-bold leading-9 tracking-tight text-red-600">
                         หากต้องการจองโต๊ะหรือจองคิว
                     </h2>
-                    <h2 className="mt-1 text-center text-1xl font-bold leading-9 tracking-tight text-red-600">
+                    <h2 className="text-center text-1xl font-bold leading-9 tracking-tight text-red-600">
                         ลูกค้าต้องชำระเงินจำนวนเต็มเพื่อสงวนสิทธิ์หรือโต๊ะ
                     </h2>
-                    <h2 className="mt-1 text-center text-1xl font-bold leading-9 tracking-tight text-red-600">
+                    <h2 className="text-center text-1xl font-bold leading-9 tracking-tight text-red-600">
                         หากไม่ชำระภายใน 20 นาที จะถือว่าการจองไม่สำเร็จ
                     </h2>
                 </div>
